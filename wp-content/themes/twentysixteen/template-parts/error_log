@@ -1,0 +1,20 @@
+[27-Oct-2018 10:52:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/twentysixteen/template-parts/content-none.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/twentysixteen/template-parts/content-none.php on line 13
+[28-Oct-2018 11:28:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function apply_filters() in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/twentysixteen/template-parts/biography.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/twentysixteen/template-parts/biography.php on line 21
+[30-Oct-2018 04:14:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/twentysixteen/template-parts/content-search.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/twentysixteen/template-parts/content-search.php on line 11
+[05-Dec-2018 10:43:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/twentysixteen/template-parts/content-single.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/twentysixteen/template-parts/content-single.php on line 11
+[05-Dec-2018 18:13:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/twentysixteen/template-parts/content-single.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/twentysixteen/template-parts/content-single.php on line 11

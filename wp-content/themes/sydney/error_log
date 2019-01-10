@@ -1,0 +1,144 @@
+[21-Jul-2018 06:10:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/404.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/404.php on line 8
+[21-Jul-2018 06:10:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/index.php on line 14
+[21-Jul-2018 06:10:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/header.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/header.php on line 10
+[21-Jul-2018 06:10:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/404.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/404.php on line 8
+[21-Jul-2018 06:10:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/index.php on line 14
+[31-Jul-2018 06:31:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/header.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/header.php on line 10
+[31-Jul-2018 06:31:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/404.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/404.php on line 8
+[31-Jul-2018 06:31:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/archive.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/archive.php on line 10
+[21-Dec-2018 05:25:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/header.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/header.php on line 10
+[21-Dec-2018 05:25:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/404.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/404.php on line 8
+[21-Dec-2018 05:25:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/index.php on line 14
+[21-Dec-2018 05:25:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/archive.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/archive.php on line 10
+[21-Dec-2018 05:25:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/404.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/404.php on line 8
+[21-Dec-2018 05:25:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/header.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/header.php on line 10
+[21-Dec-2018 05:25:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/index.php on line 14
+[21-Dec-2018 05:25:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/archive.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/archive.php on line 10
+[21-Dec-2018 05:25:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/index.php on line 14
+[21-Dec-2018 05:25:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/index.php on line 14
+[27-Dec-2018 14:20:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/index.php on line 14
+[27-Dec-2018 14:20:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/index.php on line 14
+[27-Dec-2018 14:20:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/archive.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/archive.php on line 10
+[27-Dec-2018 14:20:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/header.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/header.php on line 10
+[27-Dec-2018 14:20:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/404.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/404.php on line 8
+[27-Dec-2018 14:20:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/index.php on line 14
+[27-Dec-2018 14:20:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/404.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/404.php on line 8
+[27-Dec-2018 14:20:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/header.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/header.php on line 10
+[27-Dec-2018 14:20:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/archive.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/archive.php on line 10
+[27-Dec-2018 14:20:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/index.php on line 14
+[04-Jan-2019 21:33:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/archive.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/archive.php on line 10
+[04-Jan-2019 21:33:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/header.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/header.php on line 10
+[04-Jan-2019 21:33:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/index.php on line 14
+[04-Jan-2019 21:33:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/404.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/404.php on line 8
+[04-Jan-2019 21:33:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/archive.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/archive.php on line 10
+[04-Jan-2019 21:33:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/index.php on line 14
+[04-Jan-2019 21:33:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/header.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/header.php on line 10
+[04-Jan-2019 21:33:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/404.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/sydney/404.php on line 8

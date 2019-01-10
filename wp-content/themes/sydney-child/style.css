@@ -1,0 +1,223 @@
+/*
+
+Theme Name: Sydney Child
+
+Theme URI: http://athemes.com/theme/sydney
+
+Author: Thomas Flock
+
+Author URI: github.com/mazer-rakham
+
+Description: Sydney Child Theme
+
+Version: 1.41
+
+Template: sydney
+
+License: GNU General Public License v2 or later
+
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+Text Domain: sydney
+
+Tags: two-columns, right-sidebar, custom-colors, custom-background, custom-header, custom-menu, featured-images, sticky-post, theme-options, threaded-comments, translation-ready
+
+
+
+This theme, like WordPress, is licensed under the GPL.
+
+Use it to make something cool, have fun, and share what you've learned with others.
+
+Sydney is based on Underscores http://underscores.me/, (C) 2012-2015 Automattic, Inc.
+
+*/
+
+video#bgvid {
+    
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -100;
+}
+
+.sydney-hero-area {
+    background-color: black;
+    position: relative;
+}
+
+.button-slider {
+    position: absolute;
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+    left: 50%;
+    top: 73%;
+}
+
+#main-gradum-logo {
+    position: absolute;
+    width: 30%;
+    z-index: 200;
+    top: 36%;
+    left: 50%;
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+}
+
+.roll-button {
+    background-color: #ffa64d;
+    border: 1px solid #ffa64d;
+}
+
+.roll-button:hover {
+    color: #ffa64d;
+}
+
+.roll-team .team-item .pop-overlay {
+    position: absolute;
+    left: 0;
+    top: -6px;
+    width: 100%;
+    height: 106%;
+    padding: 10px;
+    z-index: 10;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    filter: alpha(opacity=0);
+    opacity: 0;
+    -webkit-transition: all 1s;
+    -moz-transition: all 1s;
+    -ms-transition: all 1s;
+    -o-transition: all 1s;
+    transition: all 1s;
+}
+
+.roll-team .team-item .team-pop {
+    background-color: #ffa64d;
+}
+
+.go-top {
+    background-color: #ffa64d;
+}
+
+#pg-6-0 {
+    text-shadow: 1px 1px 2px rgba(150, 150, 150, 1);
+}
+
+#contact-main-row {
+    margin-bottom: 0;
+}
+
+#contact-main-row iframe {
+    margin-top: 20px;
+    margin-bottom: -17px;
+}
+
+#recent-posts-3 {
+    text-align: right;
+}
+
+#search-3 {
+    text-align: center;
+}
+
+.roll-icon-box .icon i {
+    color: #ffa64d;
+}
+
+.roll-icon-box .icon {
+    border-color: #ffa64d
+}
+
+#menu-header-menu li a:link {
+    font-weight: 400;
+    text-transform: uppercase;
+    font-size: 18px;
+}
+
+#menu-header-menu li a:link:hover {
+    color: #ffa64d;
+}
+
+#menu-header-menu li a:link:before,
+#menu-header-menu li a:link:after {
+    content: '';
+    width: 100%;
+    height: 3px;
+    z-index: -1;
+    background: #ffa64d;
+    position: absolute;
+    -webkit-transform: scale3d(0, 1, 1);
+    transform: scale3d(0, 1, 1);
+    -webkit-transition: -webkit-transform 0.5s;
+    transition: transform 0.5s;
+}
+
+#menu-header-menu li a:link:before {
+    right: 0;
+    top: 0;
+    -webkit-transform-origin: 100% 50%;
+    transform-origin: 100% 50%;
+}
+
+#menu-header-menu li a:link:after {
+    left: 0;
+    bottom: 0;
+    -webkit-transform-origin: 0 50%;
+    transform-origin: 0 50%;
+}
+
+#menu-header-menu li a:link:hover::before,
+#menu-header-menu li a:link:hover::after {
+    -webkit-transform: scale3d(1, 1, 1);
+    transform: scale3d(1, 1, 1);
+}
+
+#menu-header-menu li a:link span {
+    position: relative;
+    -webkit-transition: color 0.5s;
+    transition: color 0.5s;
+}
+
+#menu-header-menu li a:link:hover span {
+    color: transparent;
+}
+
+#menu-header-menu li a:link span::before,
+#menu-header-menu li a:link span::after {
+    position: absolute;
+    color: #fff;
+    opacity: 0;
+    -webkit-transition: -webkit-transform 0.5s, opacity 0.5s;
+    transition: transform 0.5s, opacity 0.5s;
+}
+
+#menu-header-menu li a:link span::before {
+    content: attr(data-letters-l);
+    left: 0;
+    -webkit-transform: translate3d(-5px, 0, 0);
+    transform: translate3d(-5px, 0, 0);
+}
+
+#menu-header-menu li a:link span::after {
+    content: attr(data-letters-r);
+    right: 0;
+    -webkit-transform: translate3d(5px, 0, 0);
+    transform: translate3d(5px, 0, 0);
+}
+
+#menu-header-menu li a:link:hover span::before,
+#menu-header-menu li a:link:hover span::after {
+    opacity: 1;
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+}
+
+#m1 {
+    font-size: 30px;
+}

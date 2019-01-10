@@ -1,0 +1,78 @@
+[06-Feb-2018 04:30:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/twentyseventeen/footer.php on line 22
+[06-Feb-2018 04:30:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/twentyseventeen/footer.php on line 22
+[29-Aug-2018 05:34:48 UTC] PHP Notice:  Undefined index: wp_version in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/twentyseventeen/functions.php on line 15
+[29-Aug-2018 05:34:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/twentyseventeen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/twentyseventeen/functions.php on line 16
+[15-Oct-2018 17:32:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/twentyseventeen/404.php on line 13
+[18-Oct-2018 03:45:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/twentyseventeen/404.php on line 13
+[20-Oct-2018 10:56:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/twentyseventeen/front-page.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/twentyseventeen/front-page.php on line 15
+[20-Oct-2018 12:53:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/twentyseventeen/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/twentyseventeen/index.php on line 18
+[20-Oct-2018 16:59:32 UTC] PHP Notice:  Undefined index: wp_version in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/twentyseventeen/functions.php on line 15
+[20-Oct-2018 16:59:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/twentyseventeen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/twentyseventeen/functions.php on line 16
+[20-Oct-2018 18:45:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/twentyseventeen/footer.php on line 22
+[20-Oct-2018 20:25:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/twentyseventeen/archive.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/twentyseventeen/archive.php on line 13
+[20-Oct-2018 22:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr() in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/twentyseventeen/searchform.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/twentyseventeen/searchform.php on line 13
+[20-Oct-2018 23:47:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/twentyseventeen/single.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/twentyseventeen/single.php on line 13
+[21-Oct-2018 01:31:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/twentyseventeen/header.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/twentyseventeen/header.php on line 16
+[21-Oct-2018 17:18:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/twentyseventeen/404.php on line 13
+[22-Oct-2018 08:06:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/twentyseventeen/footer.php on line 22
+[29-Oct-2018 07:23:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/twentyseventeen/page.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/twentyseventeen/page.php on line 18
+[01-Nov-2018 00:23:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/twentyseventeen/sidebar.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/twentyseventeen/sidebar.php on line 13
+[02-Nov-2018 00:05:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/twentyseventeen/search.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/twentyseventeen/search.php on line 13
+[03-Nov-2018 00:16:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function post_password_required() in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/twentyseventeen/comments.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/twentyseventeen/comments.php on line 21

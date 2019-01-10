@@ -1,0 +1,4 @@
+[20-Nov-2018 06:16:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_robots() in /home/shawnflock/public_html/www.greensburg-decks.com/wp-includes/template-loader.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/shawnflock/public_html/www.greensburg-decks.com/wp-includes/template-loader.php on line 28

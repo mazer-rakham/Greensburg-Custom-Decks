@@ -1,0 +1,8 @@
+[31-Oct-2018 01:43:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_admin() in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/twentysixteen/inc/template-tags.php:169
+Stack trace:
+#0 {main}
+  thrown in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/twentysixteen/inc/template-tags.php on line 169
+[04-Nov-2018 02:00:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/twentysixteen/inc/customizer.php:61
+Stack trace:
+#0 {main}
+  thrown in /home/shawnflock/public_html/www.greensburg-decks.com/wp-content/themes/twentysixteen/inc/customizer.php on line 61
